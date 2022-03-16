@@ -3,4 +3,4 @@
 *.env/
 *.env/share/
 *.env/share/
-*.machinelearning/c
+*.machinelearning/
