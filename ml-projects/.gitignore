@@ -1,0 +1,9 @@
+*.venv
+*.env
+*.env
+*.env/share/
+*.env/share/
+*.machinelearning/
+env/
+/Users/femitemiola/Documents/Learning-NLP/NLP-Project/machinelearning/ml-projects/env/
+/Users/femitemiola/Documents/Learning-NLP/NLP-Project/machinelearning/ml-projects/env/share/
